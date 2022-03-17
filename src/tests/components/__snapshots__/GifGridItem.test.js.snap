@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en el archivo GifGridItem debe coincidir con el snapshop 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="Chanchito Feliz"
+    src="https//:localhost.jgp"
+  />
+  <p>
+     
+    Chanchito Feliz
+     
+  </p>
+</div>
+`;
